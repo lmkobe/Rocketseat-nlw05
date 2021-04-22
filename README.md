@@ -8,7 +8,9 @@ Projeto com o objetivo de aprender Node.js
 
 https://github.com/lmkobe/Rocketseat-nlw05.git
 
-### Comandos importantes
+### Aula 01
+
+#### Comandos importantes
 
 yarn init -y
 
@@ -23,8 +25,18 @@ yarn tsc --init
 yarn add ts-node-dev -D
 
 yarn dev
-/_ comando para rodar script escrito no package.son
+/_comando para rodar script escrito no package.son
 "scripts": {
 "dev": "ts-node-dev src/server.ts"
 },
 _/
+
+### Aula 02
+
+Implementação do banco de dados:
+
+- Utilização do typeorm;
+- Criação do database;
+- Criação de entities;
+- Criação de repositories;
+- Rotas e controllers;
