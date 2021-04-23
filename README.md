@@ -40,3 +40,18 @@ Implementação do banco de dados:
 - Criação de entities;
 - Criação de repositories;
 - Rotas e controllers;
+
+- Criação da tabela settings.
+
+### Aula 03
+
+- Continuação de modularização/estruturação do banco: pasta services;
+- Criação das tabelas users e messages.
+
+### Aula 04
+ 
+#### Websockets.io
+Instalação de dependências:
+    - yarn add socket.io
+    - yarn add @types/socket.io -D  //-D : dependência de desenvilvimento.
+    - yarn add ejs
