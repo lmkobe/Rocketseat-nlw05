@@ -55,3 +55,7 @@ Instalação de dependências:
     - yarn add socket.io
     - yarn add @types/socket.io -D  //-D : dependência de desenvilvimento.
     - yarn add ejs
+    - yarn add socket.io-client
+
+Criando a tabela connections:
+    - yarn typeorm migration:create -n CreateConnections
