@@ -2,7 +2,7 @@
 
 ## Trilha Node.js
 
-Desenvolvimento de um Chat com foco no back-end com Node.js
+Desenvolvimento de um Chat com foco no back-end com Node.js.
 
 Conceitos aprendidos:
 - Estruturação do banco de dados;
