@@ -6,16 +6,11 @@ Desenvolvimento de um Chat com foco no back-end com Node.js.
 
 ### Tecnologias
 
-<div align="center">
-  <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
-</div>
-
-- [SQLite];
-- [Express];
-- [TypeORM];
-- [Migrations];
-- [Websockets];
+- SQLite;
+- Express;
+- TypeORM;
+- Migrations;
+- Websockets;
 
 ### Instalação
 
