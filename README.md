@@ -4,7 +4,7 @@
 
 Desenvolvimento de um Chat com foco no back-end com Node.js.
 
-### Tecnologias
+## Tecnologias
 
 - SQLite;
 - Express;
@@ -12,9 +12,9 @@ Desenvolvimento de um Chat com foco no back-end com Node.js.
 - Migrations;
 - Websockets;
 
-### Instalação
+## Instalação
 
-#### Pré-requesitos
+### Pré-requesitos
 É preciso ter instalado o node.js e o yarn para rodar esse projeto.
 
 **Clone o projeto e acesse a pasta**
@@ -34,6 +34,7 @@ $ yarn dev
 ```
 
 Para acessar a interface do cliente, acesse pelo navegador  `http://localhost:3030/pages/cliente`.
+
 E para acessar a interface do administrador, acesse pelo navegador `http://localhost:3030/pages/admin`
 
 
