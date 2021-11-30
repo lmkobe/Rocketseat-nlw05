@@ -4,21 +4,43 @@
 
 Desenvolvimento de um Chat com foco no back-end com Node.js.
 
-Conceitos aprendidos:
-- Estruturação do banco de dados;
-- Express;
-- TypeORM;
-- Migrations;
-- Websockets;
+### Tecnologias
 
-### Configurações do ambiente
+<div align="center">
+  <br />
+  <img src=".github/tech-logos.png" alt="Technologies used">
+</div>
 
-Para rodar a aplicação:
-- Faça o git clone do repositório.
-- Execute o comando "yarn" para baixar as dependências da aplicação.
-- Execute o comando "yarn dev" para executar a aplicação.
-- Acesse pelo navegador "localhost:3030/page/client" para entrar na interface do cliente.
-- Acesse pelo navegador "localhost:3030/page/admin" para entrar na interface do administrador.
+- [SQLite];
+- [Express];
+- [TypeORM];
+- [Migrations];
+- [Websockets];
+
+### Instalação
+
+#### Pré-requesitos
+É preciso ter instalado o node.js e o yarn para rodar esse projeto.
+
+**Clone o projeto e acesse a pasta**
+
+```bash
+$ git clone https://github.com/lmkobe/Rocketseat-nlw05.git && cd Rocketseat-nlw05
+```
+
+**Siga os passos abaixo**
+
+```bash
+# Instalação das dependências do projeto
+$ yarn
+
+# Execução da aplicação
+$ yarn dev
+```
+
+Para acessar a interface do cliente, acesse pelo navegador  `http://localhost:3030/pages/cliente`.
+E para acessar a interface do administrador, acesse pelo navegador `http://localhost:3030/pages/admin`
+
 
 ### Aula 01
 
